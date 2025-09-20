@@ -3,15 +3,6 @@
 
 ## Tools Installation
 
-
-### **Resizing the Ubuntu window to fit the screen**
-```bash
-$ sudo apt update
-$ sudo apt install build-essential dkms linux-headers-$(uname -r)
-$ cd /media/spatha/VBox_GAs_7.1.8/
-$ ./autorun.sh
-```
-
 ### **TOOL CHECK**
 
 #### <ins>**Yosys**</ins>
@@ -31,6 +22,8 @@ $ make
 $ sudo make install
 ```
 ![Alt Text](yosys.jpeg)
+![Alt Text](yosys_install.jpeg)
+
 
 #### <ins>**Iverilog**</ins>
 ```bash
@@ -45,4 +38,5 @@ $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
 ![Alt Text](gtkwave.jpeg)
+![Alt Text](gtkwave_open.jpeg)
 
