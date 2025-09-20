@@ -5,28 +5,14 @@
 
 ### **TOOL CHECK**
 
-#### <ins>**Yosys**</ins>
-```bash
-$ sudo apt-get update
-$ git clone https://github.com/YosysHQ/yosys.git
-$ cd yosys
-$ sudo apt install make               # If make is not installed
-$ sudo apt-get install build-essential clang bison flex \
-    libreadline-dev gawk tcl-dev libffi-dev git \
-    graphviz xdot pkg-config python3 libboost-system-dev \
-    libboost-python-dev libboost-filesystem-dev zlib1g-dev
-$ sudo make install
-```
-![Alt Text](yosys_install.jpeg)
-![Alt Text](yosys.jpeg)
-
-
 
 #### <ins>**Iverilog**</ins>
 ```bash
-$ sudo apt-get install iverilog
+$ sudo apt install iverilog
 ```
 ![Alt Text](Iverilog.jpeg)
+
+
 
 #### <ins>**gtkwave**</ins>
 ```bash
@@ -34,4 +20,20 @@ $ sudo apt install gtkwave
 ```
 ![Alt Text](gtkwave.jpeg)
 ![Alt Text](gtkwave_open.jpeg)
+
+#### <ins>**Yosys**</ins>
+```bash
+$ sudo apt-get install gperf build-essential clang lld bison flex libfl-dev \
+graphviz xdot pkg-config python3 libboost-system-dev \
+libboost-python-dev libboost-filesystem-dev zlib1g-dev git
+
+```
+![Alt Text](yosys_install.jpeg)
+![Alt Text](yosys.jpeg)
+
+
+
+
+
+
 
