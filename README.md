@@ -3,7 +3,6 @@
 
 ## Tools Installation
 
-### **TOOL CHECK**
 
 
 #### <ins>**Iverilog**</ins>
