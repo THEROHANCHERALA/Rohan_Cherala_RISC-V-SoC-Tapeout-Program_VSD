@@ -85,7 +85,7 @@ Below are the verification screenshots for each tool:
 
 ### GTKWave
 <p align="center">
-  <img src="gtkwave.png" alt="GTKWave Launch" width="600"/>
+  <img src="gtkwave_open.jpeg" alt="GTKWave Launch" width="600"/>
 </p>  
 
 ### Ngspice
@@ -95,7 +95,7 @@ Below are the verification screenshots for each tool:
 
 ### Magic VLSI
 <p align="center">
-  <img src="magic.png" alt="Magic VLSI Launch" width="600"/>
+  <img src="magic_vlsi.png" alt="Magic VLSI Launch" width="600"/>
 </p>  
 
 ---
