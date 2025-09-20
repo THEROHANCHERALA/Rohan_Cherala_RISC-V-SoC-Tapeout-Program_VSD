@@ -75,27 +75,27 @@ Below are the verification screenshots for each tool:
 
 ### Yosys
 <p align="center">
-  <img src="images/yosys.png" alt="Yosys Version" width="600"/>
+  <img src="yosys.png" alt="Yosys Version" width="600"/>
 </p>  
 
 ### Icarus Verilog (iverilog)
 <p align="center">
-  <img src="images/iverilog.png" alt="Icarus Verilog Version" width="600"/>
+  <img src="iverilog.png" alt="Icarus Verilog Version" width="600"/>
 </p>  
 
 ### GTKWave
 <p align="center">
-  <img src="images/gtkwave.png" alt="GTKWave Launch" width="600"/>
+  <img src="gtkwave.png" alt="GTKWave Launch" width="600"/>
 </p>  
 
 ### Ngspice
 <p align="center">
-  <img src="images/ngspice.png" alt="Ngspice Version" width="600"/>
+  <img src="ngspice.png" alt="Ngspice Version" width="600"/>
 </p>  
 
 ### Magic VLSI
 <p align="center">
-  <img src="images/magic.png" alt="Magic VLSI Launch" width="600"/>
+  <img src="magic.png" alt="Magic VLSI Launch" width="600"/>
 </p>  
 
 ---
